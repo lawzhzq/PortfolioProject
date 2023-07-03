@@ -1,1 +1,0 @@
-SELECT * FROM PotfolioProject_Alex_1.percentpopulationvaccinated_view;
